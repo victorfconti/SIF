@@ -1,7 +1,7 @@
 {
     "title": "SIF",
-    "name": "Solidariedade Igualdade Futuro",
-    "version": "1",
+    "name": "solidariedade-igualdade-futuro",
+    "version": "1.0.0",
     "scripts": {
         "start": "gulp watch"
     },
@@ -15,7 +15,8 @@
         "@fortawesome/fontawesome-free": "5.7.2",
         "bootstrap": "4.3.1",
         "jquery": "3.3.1",
-        "jquery.easing": "^1.4.1"
+        "jquery.easing": "^1.4.1",
+        "popper.js": "^1.14.7"
     },
     "devDependencies": {
         "browser-sync": "2.26.3",
