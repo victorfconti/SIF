@@ -1,32 +1,15 @@
 {
-    "title": "Agency",
-    "name": "startbootstrap-agency",
-    "version": "5.0.6",
+    "title": "SIF",
+    "name": "Solidariedade Igualdade Futuro",
+    "version": "1",
     "scripts": {
         "start": "gulp watch"
     },
-    "description": "Agency is a one page HTML theme for Bootstrap.",
-    "keywords": [
-        "css",
-        "sass",
-        "html",
-        "responsive",
-        "theme",
-        "template"
-    ],
-    "homepage": "https://startbootstrap.com/template-overviews/agency",
-    "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency/issues",
-        "email": "feedback@startbootstrap.com"
-    },
     "license": "MIT",
-    "author": "Start Bootstrap",
-    "contributors": [
-        "David Miller (http://davidmiller.io/)"
-    ],
+    "author": "Victor Fernando Conti",
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-agency.git"
+        "url": "https://github.com/victorfconti/SIF"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.7.2",
