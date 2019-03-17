@@ -1,34 +1,41 @@
 {
-    "title": "SIF",
-    "name": "solidariedade-igualdade-futuro",
-    "version": "1.0.0",
-    "scripts": {
-        "start": "gulp watch"
-    },
-    "license": "MIT",
-    "author": "Victor Fernando Conti",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/victorfconti/SIF"
-    },
-    "dependencies": {
-        "@fortawesome/fontawesome-free": "5.7.2",
-        "bootstrap": "4.3.1",
-        "jquery": "3.3.1",
-        "jquery.easing": "^1.4.1",
-        "popper.js": "^1.14.7"
-    },
-    "devDependencies": {
-        "browser-sync": "2.26.3",
-        "del": "^3.0.0",
-        "gulp": "4.0.0",
-        "gulp-autoprefixer": "6.0.0",
-        "gulp-clean-css": "4.0.0",
-        "gulp-header": "2.0.7",
-        "gulp-plumber": "^1.2.1",
-        "gulp-rename": "1.4.0",
-        "gulp-sass": "4.0.2",
-        "gulp-uglify": "3.0.1",
-        "merge-stream": "^1.0.1"
-    }
+  "title": "SIF",
+  "name": "solidariedade-igualdade-futuro",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "gulp watch"
+  },
+  "license": "MIT",
+  "author": "Victor Fernando Conti",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorfconti/SIF.git"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "5.7.2",
+    "bootstrap": "4.3.1",
+    "jquery": "3.3.1",
+    "jquery.easing": "^1.4.1",
+    "popper.js": "^1.14.7"
+  },
+  "devDependencies": {
+    "browser-sync": "2.26.3",
+    "del": "^3.0.0",
+    "gulp": "4.0.0",
+    "gulp-autoprefixer": "6.0.0",
+    "gulp-clean-css": "4.0.0",
+    "gulp-header": "2.0.7",
+    "gulp-plumber": "^1.2.1",
+    "gulp-rename": "1.4.0",
+    "gulp-sass": "4.0.2",
+    "gulp-uglify": "3.0.1",
+    "merge-stream": "^1.0.1"
+  },
+  "description": "Página para o grupo voluntário SIF(Solidariedade Igualdade Futuro)",
+  "bugs": {
+    "url": "https://github.com/victorfconti/SIF/issues"
+  },
+  "homepage": "https://github.com/victorfconti/SIF#readme",
+  "main": "index.js",
+  "keywords": []
 }
